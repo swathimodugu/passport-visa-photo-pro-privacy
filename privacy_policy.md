@@ -4,7 +4,7 @@
 
 ## Core Principle
 
-**Your photos never leave your device. All processing is done locally on your iPhone or iPad.**
+**Your photos never leave your device. All processing is done locally on your iPhone.**
 
 ---
 
