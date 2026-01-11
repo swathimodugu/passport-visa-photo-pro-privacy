@@ -12,8 +12,9 @@ For support, questions, or feedback, please contact us:
 
 ### How to Create a Passport Photo
 
-1. Select your document type (US Passport, Indian Passport, etc.)
-2. Grant camera permission
+1. Select your Country (United States)
+2. Select your document type ( Passport, Passport, etc.)
+3. Grant camera permission
 3. Position your face using the on-screen guides
 4. Capture photo or select from gallery
 5. Use auto-crop and background removal tools
@@ -25,40 +26,32 @@ For support, questions, or feedback, please contact us:
 ## Common Questions
 
 **Q: Do I need internet?**  
-A: No. The app works completely offline.
+A: No. The application operates fully offline without connectivity needs.
 
-**Q: Are my photos uploaded anywhere?**  
-A: No. All processing happens on your device. Your photos never leave your iPhone.
+**Q: Is my data private?**  
+A: All processing happens on your device. your photos never leave your iPhone.
 
 **Q: What documents are supported?**  
 A: US Passport, US Visa, and more.
 
 **Q: How do I remove the background?**  
-A: Tap the "Background" button in the editing screen.
+A: Tap the "Background Removal" button in the editing screen.
 
 **Q: What do the compliance colors mean?**  
 - Green: Meets all requirements  
-- Yellow: Review needed, minor adjustment  
+- Orange: Review needed, minor adjustment  
 - Red: Does not meet requirements
 
 ---
 
 ## Troubleshooting
 
-**Camera not working**: Check Settings → Privacy → Camera permissions
+**Camera not working**: Verify camera access in Settings → Privacy → Camera
 
-**Face not detected**: Ensure good lighting and face the camera directly
+**Face not detected**: Optimize lighting conditions and maintain direct camera positioning.
 
-**Export not working**: Check Settings → Privacy → Photos permissions
+**Export not working**: Confirm photo library permissions in Settings → Privacy → Photos
 
----
 
-## Contact
-
-**Support Email**: thiasolutionsllc@gmail.com
-
-**Privacy Policy**: Available in the app and at app store listing
-
----
 
 *Developed by Thia Solutions LLC*
