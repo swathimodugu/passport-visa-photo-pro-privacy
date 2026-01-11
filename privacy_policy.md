@@ -46,8 +46,6 @@ Photos remain in device memory during editing sessions. Only explicit user actio
 
 **Photo Library (Optional):** User-selected access only
 
-**Face ID/Touch ID (Optional):** For secure app access only. Biometric data never leaves your device or is stored by the app. Authentication is handled entirely by iOS at the system level.
-
 ---
 
 ## Data Sharing
