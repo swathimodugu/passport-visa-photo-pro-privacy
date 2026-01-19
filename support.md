@@ -1,57 +1,68 @@
-# Passport Visa Photo Pro - Support
+# Support
 
-## Need Help?
+## Contact Us
 
-For support, questions, or feedback, please contact us:
-
-**Email**: thiasolutionsllc@gmail.com
+**Email:** thiasolutionsllc@gmail.com
 
 ---
 
-## Quick Guide
+## How to Create a Passport Photo
 
-### How to Create a Passport Photo
-
-1. Select your Country (United States)
-2. Select your document type ( Passport, Passport, etc.)
-3. Grant camera permission
-3. Position your face using the on-screen guides
-4. Capture photo or select from gallery
-5. Use auto-crop and background removal tools
-6. Review compliance check results
-7. Export and save your photo
+1. Select your country
+2. Select your document type (Passport or Visa)
+3. Choose photo source: Camera or Gallery
+4. **Camera Option:** Grant camera permission and capture photo using on-screen guides
+5. **Gallery Option:** Grant photo library permission and select existing photo
+6. Use auto-crop and background removal tools
+7. Review compliance check results
+8. Export and save your photo
 
 ---
 
 ## Common Questions
 
-**Q: Do I need internet?**  
-A: No. The application operates fully offline without connectivity needs.
+### Does this app require internet?
 
-**Q: Is my data private?**  
-A: All processing happens on your device. your photos never leave your iPhone.
+No. All photo processing and editing happens offline on your device. Internet is only required if you choose to share your photos through online services such as email, messaging apps, or cloud storage.
 
-**Q: What documents are supported?**  
-A: US Passport, US Visa, and more.
+### Is my data private?
 
-**Q: How do I remove the background?**  
-A: Tap the "Background Removal" button in the editing screen.
+All processing happens on your device. Your photos never leave your iPhone.
 
-**Q: What do the compliance colors mean?**  
-- Green: Meets all requirements  
-- Orange: Review needed, minor adjustment  
-- Red: Does not meet requirements
+### What documents are supported?
+
+US Passport and US Visa applications.
+
+### How do I remove the background?
+
+Access this feature via the editing screen's background removal button.
+
+### What do the compliance colors mean?
+
+- **Green (Compliant)** - Photo meets all requirements
+- **Orange (Review Needed)** - Some requirements may need attention
+- **Red (Non-Compliant)** - Photo does not meet requirements
 
 ---
 
 ## Troubleshooting
 
-**Camera not working**: Verify camera access in Settings → Privacy → Camera
+### Camera not working
 
-**Face not detected**: Optimize lighting conditions and maintain direct camera positioning.
+Verify camera access in Settings → Privacy → Camera
 
-**Export not working**: Confirm photo library permissions in Settings → Privacy → Photos
+### Face detection failing
 
+Optimize lighting conditions and maintain direct camera positioning
 
+### Cannot select photos from gallery
 
-*Developed by Thia Solutions LLC*
+Verify photo library permissions in Settings → Privacy → Photos. For limited access, tap "Manage" to select specific photos.
+
+### Cannot export photo
+
+Confirm photo library permissions in Settings → Privacy → Photos
+
+---
+
+© 2026 Thia Solutions LLC
