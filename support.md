@@ -31,7 +31,11 @@ All processing happens on your device. Your photos never leave your iPhone.
 
 ### What documents are supported?
 
-US Passport and US Visa applications.
+Passport and visa photos for:
+- United States (Passport, Visa)
+- Australia (Passport, eVisa)
+- India (Passport, e-Visa, Paper Visa)
+- Canada (Passport, Visa, PR Card)
 
 ### How do I remove the background?
 
