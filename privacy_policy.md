@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** January 18, 2026
+**Last Updated:** January 2, 2026
 
 ## Core Principle
 
